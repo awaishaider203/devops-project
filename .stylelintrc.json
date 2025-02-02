@@ -1,0 +1,16 @@
+{
+    "extends": "stylelint-config-standard",
+    "rules": {
+      "color-no-invalid-hex": true,          
+      "indentation": 2,                      
+      "max-nesting-depth": 3,                
+      "number-leading-zero": "always",      
+      "string-quotes": "double",             
+      "block-no-empty": true,               
+      "selector-max-id": 1,                   
+      "declaration-block-trailing-semicolon": "always", 
+      "no-duplicate-selectors": true,        
+      "property-no-unknown": true            
+    }
+  }
+  
